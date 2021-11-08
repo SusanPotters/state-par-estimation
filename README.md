@@ -1,9 +1,7 @@
 # state-par-estimation
 
 ## Dependencies
--tensorflow
--tensorflow_probability
--gym
+tensorflow, tensorflow_probability and gym
 
 ## Execution
 You can run the program by (Ubuntu 18.04):
